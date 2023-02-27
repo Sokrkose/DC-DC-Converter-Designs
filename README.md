@@ -4,7 +4,7 @@ Here there are 2 DC-DC Converters that I designed and tested during the 2nd year
 
 ### 600V Input, 24V Output, 25A max current DC-DC
 
-This is the DC-DC Converter that powers the entire Low Votage System of the car. It takes a high voltage input from the Battery Pack and gives 24V for the supply of the LV System.
+This is the DC-DC Converter that powers the entire Low Votage System of the car. It takes a high voltage input from the Battery Pack and gives 24V for the supply of the LV System. It consists of 2 Commercial of the shelf (COTS) DC-DCs and I designed some precharge and discharge circutry for the input and output capacitors of the topology.
 
 ![photo](Screenshots/Screenshot_16.png)
 ![photo](Screenshots/Screenshot_17.png)
