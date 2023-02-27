@@ -11,7 +11,7 @@ This is the DC-DC Converter that powers the entire Low Votage System of the car.
 
 ### 600V Input, 12V Output, 200mA max current DC-DC
 
-This is the DC-DC Converter that powers the led indicator of the Battery Pack that shows if the voltage of the Battery Pack (in the side of the vehicle) is more than 60V. This is a Test PCB and not the final one, since the final PCB is integrated in the Fusebox PCB which is in a different repository.
+This is the DC-DC Converter that powers the led indicator of the Battery Pack that shows if the voltage of the Battery Pack (in the side of the vehicle) is more than 60V. It takes as input up to 600V and it gives as output a stable 12V Voltage Level. This is a Test PCB and not the final one, since the final PCB is integrated in the Fusebox PCB which is in a different repository.
 
 ![photo](Screenshots/Screenshot_18.png)
 ![photo](Screenshots/Screenshot_19.png)
